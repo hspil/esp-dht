@@ -1,0 +1,2 @@
+const char* ssid = "YOUR_SSID"; //Enter SSID
+const char* password = "YOUR_WIFI_PWD";
