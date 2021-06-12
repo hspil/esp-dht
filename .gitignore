@@ -1,2 +1,4 @@
 .pio
 lib/wifi_login/src/wifi_login.h
+hardware/esp-dht/esp-dht-cache.lib
+hardware/esp-dht/fp-info-cache
